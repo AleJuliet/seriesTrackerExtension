@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3, /*which version of this json file we are using*/
+    "version": "1.0",
+    "name": "Project Extension",
+    "action": { /*configures what happens when the user clicks on our app in our chrome browser*/
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
