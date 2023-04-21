@@ -1,9 +1,7 @@
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
+2. [Screenshot](#screenshot)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 ### General Info
 ***
 This is a simple chrome extension that saves the current tab. This is for keeping track on where you at when watching series/videos on streaming sites.
